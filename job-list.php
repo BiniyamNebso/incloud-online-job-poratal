@@ -60,7 +60,7 @@ $title = "Job List";
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="300" />
-    <meta property="og:image:alt" content="Nightingale Jobs" />
+    <meta property="og:image:alt" content="incloud Jobs" />
     <meta property="og:description" content="Online Job Management / Job Portal" />
 
 	<link rel="shortcut icon" href="images/ico/favicon.png">
