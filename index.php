@@ -20,7 +20,7 @@ include 'constants/check-login.php';
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="300" />
-    <meta property="og:image:alt" content="Nightingale Jobs" />
+    <meta property="og:image:alt" content="incloud Jobs" />
     <meta property="og:description" content="Online Job Management / Job Portal" />
 
 	<link rel="shortcut icon" href="images/ico/favicon.png">
@@ -175,7 +175,7 @@ include 'constants/check-login.php';
 				<div class="container">
 
 					<h1>your bright future starts here now</h1>
-					<p>Finding your next job or career on Nightingale Jobs</p>
+					<p>Finding your next job or career on incloud Jobs</p>
 
 					<div class="main-search-form-wrapper">
 					
